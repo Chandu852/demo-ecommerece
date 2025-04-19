@@ -1,2 +1,2 @@
 # demo-ecommerece
-demo Eecommerace
+demo Eecommerace website by using html,css,javascript
